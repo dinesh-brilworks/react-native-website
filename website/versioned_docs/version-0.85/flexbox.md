@@ -1258,6 +1258,7 @@ const AlignContentLayout = () => {
         'center',
         'space-between',
         'space-around',
+        'space-evenly'
       ]}
       setSelectedValue={setAlignContent}>
       <View style={[styles.box, {backgroundColor: 'orangered'}]} />
